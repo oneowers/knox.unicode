@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be91bc81-05c8-4155-b2de-d527d5cc8a0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/knox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/knox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knox/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox" beforeDir="false" afterPath="$PROJECT_DIR$/Knox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/core/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/media/static/media/Screenshot_2022-10-30_164823.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/myApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/myApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/myApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/myApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/myApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/myApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/main/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/Screenshot 2022-10-30 161928.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/Screenshot_2022-10-30_161928.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/Screenshot_2022-10-30_164726.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/Screenshot_2022-10-30_164823.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/Screenshot_2022-10-31_183431.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/Screenshot_2022-10-31_184146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/static/media/unnamed_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knox/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Knox/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editor.reader.mode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="knox" type="Python.DjangoServer" factoryName="Django server">
       <module name="knox" />
@@ -69,6 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667995741617</updated>
       <workItem from="1667995742946" duration="7914000" />
+      <workItem from="1668162047059" duration="10000" />
+      <workItem from="1668164544567" duration="700000" />
     </task>
     <servers />
   </component>
